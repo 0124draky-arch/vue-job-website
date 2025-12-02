@@ -97,34 +97,6 @@
         "contactEmail": "d@32",
         "contactPhone": "3456789"
       }
-    },
-    {
-      "id": "fb78",
-      "title": "vnie",
-      "type": "Full-Time",
-      "location": "sh",
-      "description": "3456 njnj",
-      "salary": "$175K - $200K",
-      "company": {
-        "name": "cdkscs",
-        "description": "vwev",
-        "contactEmail": "wcwe@321",
-        "contactPhone": "cmwl"
-      }
-    },
-    {
-      "id": "f5a6",
-      "title": "fwqq",
-      "type": "Full-Time",
-      "location": "fwqfqw",
-      "description": "fwqfeqwefwq",
-      "salary": "Over $200K",
-      "company": {
-        "name": "qwfreqwf",
-        "description": "fwqefqw",
-        "contactEmail": "fqwfeqw@bfdhw",
-        "contactPhone": "fqwfe"
-      }
     }
   ]
 }
