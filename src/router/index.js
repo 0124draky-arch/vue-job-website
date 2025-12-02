@@ -22,14 +22,14 @@ const router = createRouter({
       component: JobsView,
     },
     {
-      path: '/jobs/:id',
-      name: 'job',
-      component: JobView,
-    },
-    {
       path: '/jobs/add',
       name: 'add-job',
       component: AddJobView
+    },
+    {
+      path: '/jobs/:id',
+      name: 'job',
+      component: JobView,
     },
     {
       path: '/:catchAll(.*)',

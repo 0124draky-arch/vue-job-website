@@ -42,8 +42,8 @@ onMounted(async () => {
               <div
                 class="text-gray-500 mb-4 flex align-middle justify-center md:justify-start"
               >
-                <i
-                  class="fa-solid fa-location-dot text-lg text-orange-700 mr-2"
+               <i
+                  class="pi pi-map-marker text-xl text-orange-700 mr-2"
                 ></i>
                 <p class="text-orange-700">{{ state.job.location }}</p>
               </div>
