@@ -85,9 +85,8 @@
       }
     },
     {
-      "id": "1167",
       "title": "a job test",
-      "type": "Full-Time",
+      "type": "Remote",
       "location": "vmwkfv",
       "description": "fmvfwlv vmwldm mcwl;md",
       "salary": "Over $200K",
@@ -96,7 +95,8 @@
         "description": "vwdv",
         "contactEmail": "d@32",
         "contactPhone": "3456789"
-      }
+      },
+      "id": "1167"
     }
   ]
 }
